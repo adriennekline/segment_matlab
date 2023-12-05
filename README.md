@@ -1,2 +1,4 @@
-# segment_matlab
-manual segmentation software for matlab
+# Manual Segmentation in Matlab
+manual segmentation software for Matlab
+
+
