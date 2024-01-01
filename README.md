@@ -1,4 +1,4 @@
-# Manual Segmentation in Matlab
+# Manual Segmentation in Matlab & Python
 manual segmentation software for Matlab
 
 
